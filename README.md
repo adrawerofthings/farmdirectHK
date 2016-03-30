@@ -216,7 +216,7 @@ The following list will be updated periodically. Last updated March 5, 2016.
 ## Other
 
 - Chun Hing Musical Farm (振興音樂農場): musical eggs (Points of sale: http://www.yl.hk/chmf/i_outlet.htm + Telephone: 24411245)
-- Buying directly from farmers: https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B7/1705144409712329
-- Support local sauce/spice makers: https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E9%86%AC%E5%9C%92/1608809602679144
-- Local mushroom farms: https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%9C%AC%E5%9C%B0%E8%8F%87%E5%A0%B4/1750889605137809
-- Eat local noodles: https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E9%A3%9F%E6%9C%AC%E5%9C%B0%E9%9D%9A%E7%B2%89%E9%BA%B5/1694520107441426
+- [Buying directly from farmers](https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B7/1705144409712329)
+- [Support local sauce/spice makers](https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E9%86%AC%E5%9C%92/1608809602679144)
+- [Local mushroom farms](https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%9C%AC%E5%9C%B0%E8%8F%87%E5%A0%B4/1750889605137809)
+- [Eat local noodles](https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E9%A3%9F%E6%9C%AC%E5%9C%B0%E9%9D%9A%E7%B2%89%E9%BA%B5/1694520107441426)
