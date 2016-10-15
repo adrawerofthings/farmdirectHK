@@ -1,4 +1,4 @@
-# Resources for buying farm direct in Hong Kong
+# ![Resources for buying farm direct in Hong Kong](cover-image.png)
 
 *Translator's note: The following is a translation of [a Facebook post](https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B72016/1881515068741928) compiled by [港嘢 (Kong Yeah)](https://www.facebook.com/kongyeahkongyeah/), a Hong Kong-based group that supports local agriculture and production.*
 
