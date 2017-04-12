@@ -1,0 +1,84 @@
+{
+  "name": "hongkonggong/farmdirectHK",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Humanist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/LightBannerHeader",
+      "article": "article/ReaderArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Athelas, Georgia, serif",
+    "heading": {
+      "fontWeight": 400,
+      "textTransform": "uppercase",
+      "letterSpacing": "0.1em"
+    },
+    "colors": {
+      "text": "#121212",
+      "background": "#fff",
+      "primary": "#ee5544",
+      "secondary": "#005499",
+      "highlight": "#00bd78",
+      "border": "#ddd",
+      "muted": "#f3f3f3"
+    },
+    "layout": {
+      "maxWidth": 768
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/hongkonggong/farmdirectHK",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "farmdirectHK",
+      "subhead": "Resources for buying farm direct in Hong Kong",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "farmdirectHK: Resources for buying farm direct in Hong Kong",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "hongkonggong",
+          "repo": "farmdirectHK"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1><img src=\"cover-image.png\"></h1>\n<p><em>Translator&apos;s note: The following is a translation of <a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B72016/1881515068741928\">a Facebook post</a> compiled by <a href=\"https://www.facebook.com/kongyeahkongyeah/\">&#x6E2F;&#x5622; (Kong Yeah)</a>, a Hong Kong-based group that supports local agriculture and production.</em></p>\n<p>There are farmers markets, organic farmers&apos; stalls at the wet market, CSA websites, and other points of sale. <a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B72016/1881515068741928\">We welcome your recommendations</a> for where you support and buy your local produce.</p>\n<p>The following list will be updated periodically. Last updated March 5, 2016.</p>\n<hr>\n<h2>Hong Kong Island</h2>\n<h3>1. Organic Farmers Market in Central</h3>\n<ul>\n<li>Star Ferry Pier 7 in Central</li>\n<li>Sundays 11am to 5pm</li>\n<li>Map: <a href=\"http://www.lowcarbonliving.hk/chi/LowCarbonCommunity-centralfarmersmarket.aspx\">http://www.lowcarbonliving.hk/chi/LowCarbonCommunity-centralfarmersmarket.aspx</a></li>\n</ul>\n<h3>2. Chun Yeung Street open air wet market in North Point</h3>\n<ul>\n<li>Store: Woo Ping Meat (&#x548C;&#x5E73;&#x512A;&#x5148;&#x5E97;): organic &#x5065;&#x71DF; pork, Yuen Long &#x694A;&#x6C0F;&#x70CF;&#x982D;, organic bean sprouts, &#x97F3;&#x6A02; eggs</li>\n</ul>\n<h3>3. Wah Kee Farm local &#x5DF4;&#x5EAB; pork</h3>\n<ul>\n<li>HK island branch: Sai Wan Ho Market and Cooked Food Centre, ground floor store M11 &amp; M12, 111 Shau Kei Wan Road</li>\n</ul>\n<h3>4. Sai Ying Pun Market at 45 Centre Street Market, Sai Ying Pun</h3>\n<ul>\n<li>Farms: Organic Veggie Express (ground floor store S17) <a href=\"https://www.facebook.com/OrganicVeggieExpress\">https://www.facebook.com/OrganicVeggieExpress</a>, A-Tao&apos;s Vegetables <a href=\"https://www.facebook.com/ataosvegetables/\">https://www.facebook.com/ataosvegetables/</a></li>\n</ul>\n<h3>5. Aberdeen Market on Aberdeen Main Road</h3>\n<ul>\n<li>Farms: A-Tao&apos;s Vegetables <a href=\"https://www.facebook.com/ataosvegetables/\">https://www.facebook.com/ataosvegetables/</a></li>\n</ul>\n<hr>\n<h2>Kowloon</h2>\n<h3>1. Mei Foo Farm Fest (&#x7F8E;&#x5B5A;&#x6709;&#x6A5F;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Kwai Chung Road under the highway bridge (Mei Foo part)</li>\n<li>Sundays 11am to 5pm</li>\n<li><a href=\"https://www.facebook.com/%E7%BE%8E%E5%AD%9A%E6%9C%89%E6%A9%9F%E8%BE%B2%E5%A2%9F-Mei-Foo-Farm-Fest-174564719231133/\">https://www.facebook.com/%E7%BE%8E%E5%AD%9A%E6%9C%89%E6%A9%9F%E8%BE%B2%E5%A2%9F-Mei-Foo-Farm-Fest-174564719231133/</a></li>\n</ul>\n<h3>2. Wah Kee Farm local &#x5DF4;&#x5EAB; pork</h3>\n<ul>\n<li>Kowloon store: Hung Hom Market (&#x7D05;&#x52D8;&#x8857;&#x5E02;), first floor, M11 at the Hung Hom Municipal Services Building on Ma Tau Wai Road </li>\n<li><a href=\"https://www.facebook.com/wahkeefarm/\">https://www.facebook.com/wahkeefarm/</a></li>\n</ul>\n<h3>3. Shui Wo Street Market (&#x89C0;&#x5858;&#x745E;&#x548C;&#x8857;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>Farms: New Life Organic Farm, Fully Golden Organic Farm</li>\n</ul>\n<h3>4. Kwun Tong Laguna Plaza (&#x89C0;&#x5858;&#x9E97;&#x6E2F;&#x57CE;&#x5546;) basement: Organic We</h3>\n<ul>\n<li>Farms: Hiu Fung Organic Farm, HKFYG Organic Farm, &#x6CF0;&#x5B89;eggs, &#x97F3;&#x6A02;eggs</li>\n</ul>\n<h3>5. Sheung Fung Street Market at Diamond Hill (&#x947D;&#x77F3;&#x5C71;&#x96D9;&#x9CF3;&#x8857;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>Farm: Maggie&apos;s Leisure Farm (&#x746A;&#x59EC;&#x4F11;&#x9592;&#x8FB2;&#x838A;) <a href=\"https://www.facebook.com/MaggiesLeisureFarm/\">https://www.facebook.com/MaggiesLeisureFarm/</a></li>\n</ul>\n<h3>6. WECONS (&#x5929;&#x7D93;&#x5730;&#x7FA9;&#x751F;&#x6D3B;&#x9928;)</h3>\n<ul>\n<li>204 Prince Edward Road West, 1st Floor</li>\n<li>Mondays 3pm to 7pm</li>\n<li>Tuesdays through Sundays 11am to 7pm</li>\n<li>Farms: &#x5357;&#x6D8C;&#x8F1D;&#x54E5;&#x8FB2;&#x5834;, &#x5929;&#x59FF;&#x4F5C;&#x570D;</li>\n<li>Facebook: <a href=\"https://www.facebook.com/WECONS.flowermarket\">https://www.facebook.com/WECONS.flowermarket</a></li>\n</ul>\n<h3>7. Kowloon City Market at 100 Nga Tsin Wai Road in Kowloon City</h3>\n<ul>\n<li>Farms:  A-Tao&apos;s Vegetables: Southern Wing Store S239, Telephone 9269 1239, <a href=\"https://www.facebook.com/ataosvegetables/\">https://www.facebook.com/ataosvegetables/</a></li>\n</ul>\n<h3>8. Lively Life (&#x559C;&#x5C45;&#x751F;&#x6D3B;) at Shek Kip Mei</h3>\n<ul>\n<li>1st floor L1-02, Jockey Club Creative Arts Centre\nat 30 Pak Tin Street, Shek Kip Mei</li>\n<li>Every day 12pm to 8pm</li>\n<li>Telephone:  5542 3204</li>\n<li>Farms: Mapopo Community Farm, Kam Kee Farm</li>\n<li>Facebook: <a href=\"https://www.facebook.com/livelylifehk/\">https://www.facebook.com/livelylifehk/</a></li>\n</ul>\n<h3>9. Lok Fu Market (&#x6A02;&#x5BCC;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>&#x300C;&#x4EE5;&#x7433;&#x897F;&#x83DC;&#x300D;: Rainbow Strawberry Farm, Hiu Fung Organic Farm</li>\n</ul>\n<h3>10. Little Organic (&#x6709;&#x6A5F;&#x5152;)</h3>\n<ul>\n<li>On Shun Building ground floor block A store B at 3B San Shan Road in To Kwa Wan</li>\n<li>Telephone: 2806 8210 Ivan</li>\n<li>Farm: HK Organic Farm</li>\n<li><a href=\"http://www.little-organic.com/\">http://www.little-organic.com/</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/%E6%9C%89%E6%A9%9F%E5%85%92-Little-Organic-1438584016363244/\">https://www.facebook.com/%E6%9C%89%E6%A9%9F%E5%85%92-Little-Organic-1438584016363244/</a></li>\n</ul>\n<hr>\n<h2>New Territories</h2>\n<h3>1. Tai Po Farmers Market (&#x5927;&#x57D4;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Tai Wo Road, Tai Po (side of the fire station)</li>\n<li>Sundays 9am to 5pm</li>\n<li>Wednesday 10am to 4pm</li>\n<li>Map: <a href=\"http://hongkongfarmersmarket.org/tp_location.php\">http://hongkongfarmersmarket.org/tp_location.php</a></li>\n</ul>\n<h3>2. Lam Tei Farmers Market (&#x85CD;&#x5730;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Castle Peak Road, Lam Tei, Tuen Mun at the Lam Tei Light Rail Stop</li>\n<li>Sundays 9am to 3pm</li>\n<li>Map: <a href=\"http://www.fedvmcs.org/download/LTFM_map.jpg\">http://www.fedvmcs.org/download/LTFM_map.jpg</a></li>\n</ul>\n<h3>3. Tuen Mun Farmers Market (&#x5C6F;&#x9580;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Ends 19 March, 2016</li>\n<li>Castle Peak Road, Tuen Mun at the Crossroads Foundation</li>\n<li>Saturdays 10am to 4pm</li>\n<li>Map: <a href=\"http://hongkongfarmersmarket.org/tm_location.php\">http://hongkongfarmersmarket.org/tm_location.php</a></li>\n</ul>\n<h3>4. Mapopo Community Farm (&#x99AC;&#x5BF6;&#x5BF6;&#x793E;&#x5340;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Ma Shi Po village, Fanling</li>\n<li>Wednesdays 2pm to 6pm</li>\n<li>Sundays 11am to 6pm</li>\n<li><a href=\"https://www.facebook.com/events/108303219299491/\">https://www.facebook.com/events/108303219299491/</a></li>\n</ul>\n<h3>5. Kadoorie Farm Organic Farmers Market (&#x5609;&#x9053;&#x7406;&#x8FB2;&#x5834;&#x6709;&#x6A5F;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Lam Kam Road, Tai Po at the Kadoorie Farm And Botanical Garden</li>\n<li>The first Sunday of every month, 9:30am to 5pm</li>\n</ul>\n<h3>6. &quot;Sangwoodgoon&quot; Farmers Market (&#x751F;&#x6D3B;&#x9928;&#x8FB2;&#x589F;)</h3>\n<ul>\n<li>Kam Sheung Road, Yuen Long at Tse Uk Tsuen</li>\n<li>Sundays 10:30am to 5pm</li>\n<li><a href=\"https://www.facebook.com/sangwoodgoon\">https://www.facebook.com/sangwoodgoon</a></li>\n<li>Guided tours by appointment, $30 per person</li>\n<li>Roselle workshops 19/10, 2pm to 5pm, $450 per person (includes materials) </li>\n</ul>\n<h3>7. Tsuen Wan Market on Tsuen Wan Market Street (&#x8343;&#x7063;&#x8857;&#x5E02;&#x8857;&#x8857;&#x5E02;) at Chung On Street</h3>\n<ul>\n<li>Ground floor: organic farms (&#x5433;&#x9280;&#x6709;&#x6A5F;&#x8FB2;&#x5834;&#x3001;&#x6709;&#x6A5F;&#x8000;&#x3001;&#x5433;&#x6751;&#x6709;&#x6A5F;&#x8FB2;&#x5834;&#x3001;&#x6211;&#x5730;&#x8FB2;&#x838A;&#x3001;&#x65B0;&#x751F;&#x5712;&#x3001;28&#x865F;&#x8FB2;&#x5834;&#x3001;&#x74B0;&#x5703;&#x8FB2;&#x5834;&#x3001;&#x6C5F;&#x8A18;&#x8FB2;&#x5834;&#x3001;&#x5927;&#x5E3D;&#x5C71;&#x5DDD;&#x9F8D;&#x84C9;&#x59D0;&#x81EA;&#x8015;&#x83DC;&#x3001;&#x8001;&#x570D;&#x6FA4;&#x53D4;&#x53D4;&#x81EA;&#x8015;&#x83DC;)</li>\n<li>1st floor: Chickens &amp; eggs (&#x672C;&#x5730;&#x6CF0;&#x5B89;&#x96DE;&#x3001;&#x6CF0;&#x5B89;&#x86CB;&#x3001;&#x97F3;&#x6A02;&#x96DE;&#x3001;&#x5609;&#x7F8E;&#x96DE;), Hong Kong Fish Farming Association: local fish specialty stores</li>\n</ul>\n<h3>8. Wah Ming Estate Market in Fanling (&#x7C89;&#x5DBA;&#x83EF;&#x660E;&#x90A8;&#x8857;&#x5E02;)</h3>\n<ul>\n<li><a href=\"https://www.facebook.com/%E8%BC%9D%E8%A8%98%E8%94%AC%E8%8F%9C-FAI-KEI-VEGETABLE-270449812979951/\">Fai Kei Vegetable</a> (No. 23, Wah Ming Estate Market, Fanling)</li>\n</ul>\n<h3>9. Sha Tin Market (&#x6C99;&#x7530;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>Farm: Fully Golden Organic Farm</li>\n</ul>\n<h3>10. Tai Po Hui Market (&#x5927;&#x57D4;&#x589F;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>Stores: &#x300C;&#x7DE3;&#x4F86;&#x6709;&#x6A5F;(W23)&#x8FB2;&#x5834;&#xFF1A;&#x83C7;&#x83CC;&#x5713;)&#x3001;&#x300C;&#x5929;&#x7136;&#x574A;&#x300D;&#x3001;&#x300C;W29&#x8FB2;&#x838A;&#x300D;&#x3001;&#x300C;&#x6797;&#x59D1;&#x767E;&#x8349;&#x5E97;&#x300D;</li>\n</ul>\n<h3>11. Tin Sau Bazaar (&#x5929;&#x6C34;&#x570D;&#x5929;&#x79C0;&#x589F;) Store 901 in Tin Shui Wai</h3>\n<ul>\n<li>Farm: &#x5929;&#x6C34;&#x570D;&#x8F1E;&#x4E95;&#x6751; &#x95DC;&#x8349;&#x806F;&#x793E;&#x5340;&#x7D93;&#x6FDF;&#x8A08;&#x5283;&#x300C;&#x5929;&#x59FF;&#x4F5C;&#x570D;&#x300D;</li>\n</ul>\n<h3>12. San Hui Market in Tuen Mun (&#x5C6F;&#x9580;&#x65B0;&#x589F;&#x8857;&#x5E02;)</h3>\n<ul>\n<li>Stores: &#x300C;&#x79AE;&#x660E;&#x81EA;&#x8015;&#x83DC;&#x300D;&#x3001;&#x8C50;&#x88D5;&#x83DC;&#x6B04;(S225-226)(farm is at the Kam Tsin Tsuen in Sheung Shui)</li>\n</ul>\n<h3>13. Tai Wai Station, Tuen Mun Station</h3>\n<ul>\n<li>Store: &#x300C;&#x65B0;&#x751F;&#x8FB2;&#x793E;&#x300D;</li>\n</ul>\n<h3>14. Yat Fung Organic Farm (&#x65E5;&#x8C50;&#x6709;&#x6A5F;&#x8FB2;) Online Store</h3>\n<ul>\n<li><a href=\"https://www.facebook.com/yatfungfarm\">https://www.facebook.com/yatfungfarm</a></li>\n</ul>\n<h3>15. Local chicken &#x5609;&#x7F8E;&#x96DE;&#x3001;&#x5EB7;&#x4FDD;&#x96DE;&#x3001;&#x7687;&#x5065;&#x96DE; and pork &#x5065;&#x71DF;&#x8C6C;</h3>\n<ul>\n<li>Honwal Healthy Agro Products Co. Ltd. (&#x5143;&#x6717;&#x5EB7;&#x548C;&#x5065;&#x5EB7;&#x8FB2;&#x7522;&#x54C1;&#x6709;&#x9650;&#x516C;&#x53F8;) Point of sale: <a href=\"http://www.healthychoicehk.com/order.html\">http://www.healthychoicehk.com/order.html</a></li>\n<li>Main store: Ground Floor, Yuen Fat House 3, 71 Sau Fu St, Yuen Long</li>\n<li>Branch store: Ground Floor, 16 Pan Hoi St, Quarry Bay</li>\n</ul>\n<h3>16. Wah Kee Farm (&#x83EF;&#x8A18;&#x8FB2;&#x5834;): local &#x5DF4;&#x5EAB; pork</h3>\n<ul>\n<li><a href=\"https://www.facebook.com/wahkeefarm/\">https://www.facebook.com/wahkeefarm/</a></li>\n<li>New Territories Retail: <ul>\n<li>M37&amp;M38, Tai Po Hui Market</li>\n<li>Tai Po Complex, 8 Heung Sze Wui St, Tai Po</li>\n<li>M29&amp;M30, Tai Kiu Market, Yuen Long</li>\n</ul>\n</li>\n</ul>\n<h3>17. Happy Farm (&#x958B;&#x5FC3;&#x8FB2;&#x5834;)</h3>\n<ul>\n<li>Yin Kong Tsuen, Sheung Shui (drive straight till the end of Yin Kong/&#x5929;&#x5149;&#x752B;underpass)</li>\n</ul>\n<h3>18. Tsing Yi &#x300C;&#x5929;&#x751F;&#x6E90;&#x300D;</h3>\n<ul>\n<li>Shop 61, Ground Floor, Tsing Yi Municipal Services Bldg, 38 Tsing Luk St, Tsing Yi</li>\n<li>Telephone: 6056 2875 Wendy Lai</li>\n<li>Farm: HK Organic Farm</li>\n</ul>\n<h3>19. Psst! Shek Wu Hui Market (&#x77F3;&#x6E56;&#x589F;&#x8857;&#x5E02;), Tung Yick Market in Yuen Long (&#x5143;&#x6717;&#x540C;&#x76CA;&#x8857;&#x5E02;), small-time farmers outside the Tsuen Wan Market (&#x8343;&#x7063;&#x8857;&#x5E02;)</h3>\n<hr>\n<h2>CSA Websites</h2>\n<p><em>Translator&apos;s note: Excluding this section for now due to lack of English language support on websites.</em></p>\n<hr>\n<h2>Online shopping</h2>\n<p><em>Translator&apos;s note: The list below has been filtered to only include sites with English language support.</em></p>\n<ul>\n<li><a href=\"http://eshop330.hk/en/\">farmfresh330</a> by the New Life Psychiatric Rehabilitation Association</li>\n<li><a href=\"http://www.happyfamilies.hk/EN/HKD/home.html\">Happy Families (&#x5FEB;&#x6A02;&#x5BB6;&#x5EAD;) online store</a>: New Territories organic fruits and vegetables</li>\n<li><a href=\"http://www.hkorganicexpress.com/index.php/?___store=en_us&amp;___from_store=default\">Organic Express</a></li>\n</ul>\n<hr>\n<h2>Other</h2>\n<ul>\n<li>Chun Hing Musical Farm (&#x632F;&#x8208;&#x97F3;&#x6A02;&#x8FB2;&#x5834;): musical eggs (Points of sale: <a href=\"http://www.yl.hk/chmf/i_outlet.htm\">http://www.yl.hk/chmf/i_outlet.htm</a> + Telephone: 24411245)</li>\n<li><a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E7%9B%B4%E6%8E%A5%E8%B7%9F%E8%BE%B2%E5%A4%AB%E8%B2%B7/1705144409712329\">Buying directly from farmers</a></li>\n<li><a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E9%86%AC%E5%9C%92/1608809602679144\">Support local sauce/spice makers</a></li>\n<li><a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E6%9C%AC%E5%9C%B0%E8%8F%87%E5%A0%B4/1750889605137809\">Local mushroom farms</a></li>\n<li><a href=\"https://www.facebook.com/notes/%E6%B8%AF%E5%98%A2-kong-yeah/%E9%A3%9F%E6%9C%AC%E5%9C%B0%E9%9D%9A%E7%B2%89%E9%BA%B5/1694520107441426\">Eat local noodles</a></li>\n</ul>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/hongkonggong/farmdirectHK",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/hongkonggong",
+          "text": "hongkonggong"
+        }
+      ]
+    }
+  ]
+}
